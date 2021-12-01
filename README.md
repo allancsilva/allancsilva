@@ -5,7 +5,7 @@
 <div style="display: inline_block"  >
 <img align="right" width="250" height="250" style="border-radius:30px;" src="giphy2.gif?raw=true" />
 <p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 4° semestre. </p>
-<p> - 🎯 Apaixonado por linux, acredita que enquanto houver o terminal ainda havera esperança. </p>
+<p> - 🎯 Apaixonado por linux, acredita que enquanto houver o terminal ainda haverá esperança. </p>
 
 </div>
 
