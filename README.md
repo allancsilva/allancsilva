@@ -28,12 +28,15 @@
 
 <!-- Contact Me -->
 <p align="center">
-    <samp>
-      <a href="https://www.linkedin.com/in/allancaetanosilva" target="_blank">linkedin</a> &#8226;
-      <a href="https://www.reddit.com/user/acslva" target="_blank">reddit</a> &#8226;
-      <a href="https://www.reddit.com/user/rayh4444n" target="_blank">curriculoOnlineAqui</a> &#8226;
-      <a href="mailto:allancaetano.acs@gmail.com" target="_blank">email</a>
-    </samp>
+    
+      <a href="https://www.linkedin.com/in/allancaetanosilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &#8226;
+   
+	    <a href="https://www.reddit.com/user/acslva" target="_blank">reddit</a> &#8226;
+     
+	    <a href="https://www.reddit.com/user/rayh4444n" target="_blank">curriculoOnlineAqui</a> &#8226;
+     
+	    <a href="mailto:allancaetano.acs@gmail.com" target="_blank">email</a>
+
 </p>
 
 <h2></h2><br>
