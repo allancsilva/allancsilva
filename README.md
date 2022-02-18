@@ -23,6 +23,7 @@
  <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
+      widht="100"
       align="left"
       float: "left"      
       src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=allancsilva&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"
@@ -30,8 +31,9 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
+      widht="100"
       align="right"
-      float: "leaft"
+      float: "left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=allancsilva&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"
     />
   </a>
