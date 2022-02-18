@@ -5,7 +5,7 @@
 				
 <!-- Profile -->
 <div>
-  <p align="left"><strong><samp>┏ ━━</samp></strong></p>
+  <p align="left"><strong><samp>┏ </samp></strong></p>
   <p align="center">
     <samp>
 	  <br><br>
@@ -16,22 +16,23 @@
 	  </b>
           <br><br>    
     </samp>
-  
+  <p align="right"><strong><samp> ┛</samp></strong></p>
   </p>	  
 <!-- Github Stats -->
 	  	  
  <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
+      align="center"
       float: "left"
+      height="165"
       src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=allancsilva&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="left"
-      float: "left"
+      align="right"
+      float: "right"
       src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=allancsilva&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"
     />
   </a>
@@ -39,7 +40,7 @@
 	
 
 <h2></h2><br>
-
+<div>
 <!-- Contact Me -->
 <p align="center">
     <samp>
@@ -54,9 +55,9 @@
     </a> 	   
     </samp>
 </p>
-	  
+	</div>  
 	  
 	  
   </p>
-  <p align="right"><strong><samp>━━ ┛</samp></strong></p>
+  
 </div>
