@@ -1,43 +1,65 @@
+<!-- Insdpirations:
+				https://github.com/owl4ce 
+		 		https://github.com/rxyhn/rxyhn -->
+				
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+      <samp><br>
+            <b>
+            ## Olá, eu sou o Allan! 
+        <br>
+					Estudante de Engenharia da computação e apaixonado por linux<br>
+					Programador frontend em busca de aprender<br>
+					- Estudando JavaScript e um pouco de PHP 
+				</b>
+        <br>
+        <br>
+            <i>
+						
+        <br>
+            ~ Rayhan Kafi Pratama ~
+            </i>
+        <br>
+      </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-## Olá, eu sou o Allan! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<br>
 
-### Sobre mim
-<div style="display: inline_block"  >
-<img align="right" width="250" height="250" style="border-radius:30px;" src="giphy2.gif?raw=true" />
-<p> - 👨‍🎓 Estudante de Engenharia da computação, atualmente estou cursando o 4° semestre. </p>
-<p> - 🎯 Apaixonado por linux, acredita que enquanto houver o terminal ainda haverá esperança. </p>
+<details align="center">
+<summary><samp>extend</samp></summary>
 
-</div>
+<h2></h2><br>
 
-## Interesses :nerd_face:
-<div align="center">
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    
-
-</div>
-
-## Meus contatos
-
+<!-- Contact Me -->
 <p align="center">
-    <a href="https://github.com/allancsilva">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto: allancaetano.acs@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/allancaetanosilva">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
-    </a>
+    <samp>
+      <a href="https://www.linkedin.com/in/allancaetanosilva" target="_blank">linkedin</a> &#8226;
+      <a href="https://discord.com/users/540138413316243469" target="_blank">discord</a> &#8226;
+      <a href="https://www.reddit.com/user/rayh4444n" target="_blank">reddit</a> &#8226;
+      <a href="mailto:rayhankafipratama333@gmail.com" target="_blank">email</a>
+    </samp>
 </p>
+
+<h2></h2><br>
+
+<!-- Github Stats -->
+<p align="center">
+    <samp>
+<details>
+  <summary>My Profile Stats</summary>
+  <br/>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=rxyhn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"/>
+  <br/>
+</details>
+
+<details> 
+  <summary>My Most Used Languages</summary>
+  <br/>
+          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=rxyhn&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"/>
+  <br/>
+</details>
+    </samp>
 </p>
+</details>
