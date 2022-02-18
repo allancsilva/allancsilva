@@ -6,20 +6,14 @@
 <p align="left"><strong><samp>「</samp></strong></p>
     <p align="center">
       <samp><br>
-            <b>
-            ## Olá, eu sou o Allan! 
-        <br>
-					Estudante de Engenharia da computação e apaixonado por linux<br>
-					Programador frontend em busca de aprender<br>
+	      <br>
+	      <b>
+		 			Olá, eu sou o Allan!<br>
+					Estudante de Engenharia da computação e Programador frontend <br>
 					- Estudando JavaScript e um pouco de PHP 
-				</b>
+	      </b>
         <br>
-        <br>
-            <i>
-						
-        <br>
-            ~ Rayhan Kafi Pratama ~
-            </i>
+        <br>         
         <br>
       </samp><br>
     </p>
@@ -28,7 +22,7 @@
 <br>
 
 <details align="center">
-<summary><samp>extend</samp></summary>
+<summary><samp>Contatos: </samp></summary>
 
 <h2></h2><br>
 
@@ -36,9 +30,9 @@
 <p align="center">
     <samp>
       <a href="https://www.linkedin.com/in/allancaetanosilva" target="_blank">linkedin</a> &#8226;
-      <a href="https://discord.com/users/540138413316243469" target="_blank">discord</a> &#8226;
-      <a href="https://www.reddit.com/user/rayh4444n" target="_blank">reddit</a> &#8226;
-      <a href="mailto:rayhankafipratama333@gmail.com" target="_blank">email</a>
+      <a href="https://www.reddit.com/user/acslva" target="_blank">reddit</a> &#8226;
+      <a href="https://www.reddit.com/user/rayh4444n" target="_blank">curriculoOnlineAqui</a> &#8226;
+      <a href="mailto:allancaetano.acs@gmail.com" target="_blank">email</a>
     </samp>
 </p>
 
@@ -48,16 +42,16 @@
 <p align="center">
     <samp>
 <details>
-  <summary>My Profile Stats</summary>
+  <summary>Meus Status de Perfil</summary>
   <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=rxyhn&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"/>
+          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=allancsilva&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"/>
   <br/>
 </details>
 
 <details> 
-  <summary>My Most Used Languages</summary>
+  <summary>Linguagens Mais Usadas</summary>
   <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=rxyhn&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"/>
+          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=allancsilva&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"/>
   <br/>
 </details>
     </samp>
