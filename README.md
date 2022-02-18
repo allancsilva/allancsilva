@@ -1,62 +1,60 @@
-<!-- Insdpirations:
+<!-- Inspiratiracoes:
 				https://github.com/owl4ce 
-		 		https://github.com/rxyhn/rxyhn -->
+		 		https://github.com/rxyhn/rxyhn 
+				https://github.com/teteusAraujo/teteusAraujo -->
 				
 <!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-    <p align="center">
-      <samp><br>
-	      <br>
-	      <b>
-		 			Olá, eu sou o Allan!<br>
-					Estudante de Engenharia da computação e Programador frontend <br>
-					- Estudando JavaScript e um pouco de PHP 
-	      </b>
-        <br>
-        <br>         
-        <br>
-      </samp><br>
-    </p>
-<p align="right"><strong><samp>」</samp></strong></p>
-
-<br>
-
-<details align="center">
-<summary><samp>Contatos: </samp></summary>
+<div>
+  <p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+	  <br><br>
+	  <b>
+		Olá, eu sou o Allan!<br>
+		Estudante de Engenharia da computação e Programador Frontend <br>
+		- Estudando JavaScript e um pouco de PHP <br><br><br>
+	  </b>
+          <br><br>    
+    </samp>
+  <p align="right"><strong><samp>」</samp></strong></p>
+  </p>	  
+<!-- Github Stats -->
+	  	  
+ <p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=allancsilva&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=allancsilva&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"
+    />
+  </a>
+</p>
+	
 
 <h2></h2><br>
 
 <!-- Contact Me -->
 <p align="center">
-    
-      <a href="https://www.linkedin.com/in/allancaetanosilva" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> &#8226;
-   
-	    <a href="https://www.reddit.com/user/acslva" target="_blank">reddit</a> &#8226;
-     
-	    <a href="https://www.reddit.com/user/rayh4444n" target="_blank">curriculoOnlineAqui</a> &#8226;
-     
-	    <a href="mailto:allancaetano.acs@gmail.com" target="_blank">email</a>
-
-</p>
-
-<h2></h2><br>
-
-<!-- Github Stats -->
-<p align="center">
     <samp>
-<details>
-  <summary>Meu Status de Perfil</summary>
-  <br/>
-          <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=allancsilva&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&icon_color=36393D&title_color=d9d7d6&text_color=d9d7d6"/>
-  <br/>
-</details>
-
-<details> 
-  <summary>Linguagens Mais Usadas</summary>
-  <br/>
-          <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=allancsilva&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"/>
-  <br/>
-</details>
+	<a href="https://github.com/allancsilva">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	    <a href="mailto: allancaetano.acs@gmail.com">
+		    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/allancaetanosilva">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
+    </a> 	   
     </samp>
 </p>
-</details>
+	  
+	  
+	  
+  </p>
+</div>
