@@ -41,6 +41,7 @@
 <h2></h2><br><br>
 <div>
 <!-- Contact Me -->
+	<!--
 <p align="center">
     <samp>
 	<a href="https://github.com/allancsilva">
@@ -55,7 +56,7 @@
     </samp>
 </p>
 	</div>  
-	  
+	  -->
 	  
   </p>
   
