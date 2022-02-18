@@ -5,7 +5,7 @@
 				
 <!-- Profile -->
 <div>
-  <p align="left"><strong><samp>「</samp></strong></p>
+  <p align="left"><strong><samp>┏ ━━</samp></strong></p>
   <p align="center">
     <samp>
 	  <br><br>
@@ -16,7 +16,7 @@
 	  </b>
           <br><br>    
     </samp>
-  <p align="right"><strong><samp>」</samp></strong></p>
+  
   </p>	  
 <!-- Github Stats -->
 	  	  
@@ -58,4 +58,5 @@
 	  
 	  
   </p>
+  <p align="right"><strong><samp>━━ ┛</samp></strong></p>
 </div>
