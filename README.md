@@ -31,14 +31,14 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="right"
-      float: "right"
+      float: "leaft"
       src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=allancsilva&hide_border=true&title_color=d9d7d6&text_color=d9d7d6"
     />
   </a>
 </p>
 	
 
-<h2></h2><br>
+<h2></h2><br><br>
 <div>
 <!-- Contact Me -->
 <p align="center">
