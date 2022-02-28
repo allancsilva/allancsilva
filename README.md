@@ -12,7 +12,7 @@
 	  <b>
 		Olá, eu sou o Allan!<br>
 		Estudante de Engenharia da computação e Programador Frontend <br>
-		- Estudando JavaScript e um pouco de PHP <br><br><br>
+	      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  <br><br><br>
 	  </b>
           <br><br>    
     </samp>
