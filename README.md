@@ -31,8 +31,8 @@
 </p>
 	
 
-<h2></h2><br><br>
-<div>
+<h2>Meus contatos</h2><br><br>
+<nav>
 <!-- Contact Me -->
 
 <p align="center">
@@ -48,7 +48,7 @@
     </a> 	   
     </samp>
 </p>
-	</div>  
+	</nav>  
 	  
 	  
   </p>
