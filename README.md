@@ -31,7 +31,7 @@
 </p>
 	
 
-<h2>Meus contatos</h2><br><br>
+<br><br>
 <nav>
 <!-- Contact Me -->
 
