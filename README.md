@@ -11,7 +11,7 @@
 	  <br><br>
 	  <b>
 		Olá, eu sou o Allan!<br>
-		Estudante de Engenharia da computação e Programador Frontend <br>
+		Estudante de Matemática <br>
 	      - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  <br><br><br>
 	  </b>
           <br><br>    
